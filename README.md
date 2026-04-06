@@ -27,15 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthuammu" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthuammu&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ## 🚀 Projects
 
 - 🔹 **Bus Tracking App** – Live tracking with real-time updates  
