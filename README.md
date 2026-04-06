@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Keerthu</h1>
+<h1 align="center">👋 Hi, I'm KEERTHANA M</h1>
 
 <h3 align="center">Frontend Developer | Student | Tech Enthusiast</h3>
 
@@ -19,7 +19,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🎨 Styling & Tools
@@ -31,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthuammu&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthuammu&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthuammu&layout=compact&theme=radical" height="180"/>
 </p>
 
@@ -44,12 +43,13 @@
 - 🔹 **AI Chatbot Project** – Streamlit-based chatbot  
 - 🔹 More projects coming soon...
 
+---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your link]
-- 🌐 Portfolio: [Add your portfolio]
-- 📧 Email: [Add your email]
+- 💼 LinkedIn: www.linkedin.com/in/keerthana-m-9207772b4
+- 🌐 Portfolio: https://keerthuammu.github.io/KeerthanaM_portfolio/
+- 📧 Email: mkeerthana2909@gmail.com
 
 ---
 
