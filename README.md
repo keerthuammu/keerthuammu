@@ -22,6 +22,12 @@ Tools         Git · GitHub · VS Code
 Backend (Learning)  Node.js · Express.js (basic knowledge)
 Databases     MySQL 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthuammu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthuammu&layout=compact&theme=radical" />
+</p>
 
 📫 Connect With Me
 🌐 Portfolio: https://keerthuammu.github.io/KeerthanaM_portfolio/ 
